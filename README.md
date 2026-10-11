@@ -1,4 +1,4 @@
-# Lab 6 — Optimization for Training Deep Neural Networks (PyTorch)
+# Optimization for Training Deep Neural Networks (PyTorch)
 
 This is my submission for Lab 6, which accompanies the lecture notes on optimization. I implemented every algorithm from class — plain gradient descent, its batch/stochastic/mini-batch variants, AdaGrad, RMSProp, and Adam — from first principles in PyTorch, then checked each one against the built-in `torch.optim` version to make sure my math was right.
 
